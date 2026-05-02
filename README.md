@@ -183,13 +183,6 @@ curl -X POST http://localhost:5000/predict \
 
 ---
 
-## Future Improvements
-
-- [ ] SHAP values for individual prediction explainability
-- [ ] LightGBM comparison
-- [ ] Streamlit dashboard for clinical stakeholders
-- [ ] Model fairness analysis across demographic subgroups
-
 ---
 
 ## Tech Stack
