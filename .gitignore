@@ -1,0 +1,28 @@
+# Data files (large — download via download_data.py)
+data/diabetic_data.csv
+data/dataset_diabetes.zip
+data/dataset_diabetes/
+
+# Model binaries
+models/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+env/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
