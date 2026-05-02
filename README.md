@@ -15,7 +15,6 @@
 - [How to Run](#how-to-run)
 - [API Usage](#api-usage)
 - [Key Learnings](#key-learnings)
-- [Future Improvements](#future-improvements)
 
 ---
 
