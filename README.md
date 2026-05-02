@@ -1,4 +1,4 @@
-# Clinical Outcome Predictor
+# Patient Readmission Predictor
 ### Predicting 30-Day Hospital Readmission Risk Using Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3-orange) ![XGBoost](https://img.shields.io/badge/XGBoost-2.0-green) ![Flask](https://img.shields.io/badge/Flask-2.3-lightgrey) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
